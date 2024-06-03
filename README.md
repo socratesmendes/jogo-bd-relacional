@@ -2,7 +2,7 @@
 
 Link do site: https://game-sample.onrender.com/
 
-##Telas
+## Telas
 
 Login:
 ![image](https://github.com/socratesmendes/jogo-bd-relacional/assets/71992518/73ae5bbf-bc95-4454-8c2e-073c7c4cb9de)
